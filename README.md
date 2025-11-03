@@ -2,7 +2,13 @@
 
 A sophisticated legal assistant powered by artificial intelligence that helps users understand legal matters, court judgments, and legal procedures in an interactive chat interface.
 
-[![AI Legal Assistant Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1qF4q1h9cEBi3WywsN15LzNV97mt1yfek/view?usp=sharing)
+## Demo 🎥
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1qF4q1h9cEBi3WywsN15LzNV97mt1yfek/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=1qF4q1h9cEBi3WywsN15LzNV97mt1yfek" alt="AI Legal Assistant Demo" width="600"/>
+  </a>
+</div>
 
 <p align="center">
   <i>👆 Click to watch the full demo video</i>
