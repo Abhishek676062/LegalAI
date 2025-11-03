@@ -28,6 +28,14 @@ A sophisticated legal assistant powered by artificial intelligence that helps us
   - Applicable laws and regulations
   - Legal procedures and documentation
   - Professional guidance
+
+## Screenshots 📸
+
+<div align="center">
+  <img src="assets/LegalAI.png" alt="AI Legal Assistant Interface" width="800"/>
+  <p><i>AI Legal Assistant with multiple persona modes and interactive chat interface</i></p>
+</div>
+
   
 ## Technologies Used 🛠️
 
@@ -128,6 +136,37 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+## Connect & Collaborate 🤝
+
+I'm passionate about leveraging AI to make legal information more accessible and understandable. Let's connect and create something amazing together!
+
+### Professional Services 💼
+- Custom AI Agent Solutions
+- Chatbot Development
+- Document Processing Systems
+- AI Integration Consulting
+
+### Stay Updated 🌟
+- Follow me for more AI updates and projects
+- Star ⭐ this repo to show your support
+- Share with others who might find it helpful
+
+### Get in Touch 📫
+- Email: shabhishek055@gmail.com
+- Open for freelance projects and collaborations
+- Available for technical consultations
+
 ---
 
-⭐ Don't forget to star this repository if you found it helpful!
+<div align="center">
+
+### Show Your Support
+
+⭐ Star this repo if you found it helpful!
+
+🔄 Share with the community
+
+👥 Open for collaborations
+
+</div>
