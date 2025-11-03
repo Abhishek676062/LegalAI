@@ -6,12 +6,12 @@ A sophisticated legal assistant powered by artificial intelligence that helps us
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1qF4q1h9cEBi3WywsN15LzNV97mt1yfek/view?usp=sharing">
-    <img src="https://drive.google.com/uc?export=view&id=1qF4q1h9cEBi3WywsN15LzNV97mt1yfek" alt="AI Legal Assistant Demo" width="600"/>
+    <img src="https://raw.githubusercontent.com/Abhishek676062/LegalAI/main/assets/thumbnail.png" alt="AI Legal Assistant Demo" width="700"/>
   </a>
 </div>
 
 <p align="center">
-  <i>👆 Click to watch the full demo video</i>
+  <b><a href="https://drive.google.com/file/d/1qF4q1h9cEBi3WywsN15LzNV97mt1yfek/view?usp=sharing">▶️ Click Here to Watch Full Demo Video</a></b>
 </p>
 
 ## Key Features 🌟
@@ -67,7 +67,7 @@ A sophisticated legal assistant powered by artificial intelligence that helps us
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/LegelAI.git
+git clone https://github.com/Abhishek676062/LegalAI.git
 ```
 
 2. Install dependencies
@@ -106,8 +106,7 @@ streamlit run app.py
 
 ```
 LegelAI/
-├── app.py              # Main application file
-├── legal.py           # Legal processing modules
+├── app.py              # Main Legal application file
 ├── data/              # PDF and legal document storage
 ├── vector_store.pkl   # Persistent vector storage
 └── README.md          # Project documentation
